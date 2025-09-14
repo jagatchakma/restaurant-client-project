@@ -1,0 +1,7 @@
+.banner-Image {
+    background-image: url('../../assets/menu/banner3.jpg');
+    /* background-image: url('../../../assets/menu/banner3.jpg'); */
+    /* background-size: cover;
+    background-position: center;
+    height: 16rem; */
+}
