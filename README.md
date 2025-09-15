@@ -42,6 +42,6 @@ Tiny restaurant management system
 
 ## Key Packages Used
     react, react-dom, react-router-dom, react-helmet, react-icons, framer-motion, axios, daisyui, tailwindcss, firebase, localforage, sweetalert2, react-responsive-carousel, react-tabs, match-sorter, sort-by
-    For a complete list, see your package.json file.
+    For a complete list, see the package.json file.
 
 
